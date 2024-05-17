@@ -1,9 +1,35 @@
-Estiven Pinillo
-Tecnólogo en análisis y desarrollador de software del SENA experimentado en: 
-PHP, Laravel, SQL, MySQL, MVC, Git, JavaScript, HTML5, CSS3, SASS, metodología BEM, principios SOLID, programación orientada a objectos - POO, pruebas de software, metodología Scrum, diagramación UML, análisis y documentación de requerimiento.
-
-Poseo una buena actitud y cooperación para él trabajo en equipo. Tengo la capacidad de adaptación al cambio y la disposición al mejoramiento continuo. Conservo un gran interés y emoción por aprender todo lo referente al análisis y desarrollo de software.
-
+Tecnico En Programacion De Software y actualmente en proceso de certificacion del Tecnólogo En Análisis Y Desarrollador De Software del SENA experimentado en:
+Laravel
+Flight micro-framework
+PHP
+Composer
+SQL
+MySQL
+MongoDB
+POO - Programacion orientada a objetos
+Principios SOLID
+Pruebas de software
+Patrones de arquitectura de software
+Modelamiento de software (UML)
+Analisis de requerimientos
+Documentacion de requerimientos
+Nginx
+Git
+GitHub
+GitFlow
+SASS
+Metodologia BEM
+Metodologia OOCSS
+CSS 3
+HTML 5
+JavaScript
+D3.js
+JQuery
+Linux
+Responsive Design
+Metodologia Scrum
+Mobile First Design
+Google Cloud
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
