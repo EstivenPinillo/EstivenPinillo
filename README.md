@@ -1,5 +1,5 @@
 # Marlon Estiven Pinillo Carabali
-## Teconologo En Analisis Y Desarrollo De Software
+##### Tecnologo En Analisis Y Desarrollo De Software
 
 Permanezco inmerso en el análisis y desarrollo de software, tanto en proyectos 
 profesionales como en iniciativas personales. En términos generales me centro en la 
