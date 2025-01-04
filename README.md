@@ -1,12 +1,11 @@
 # Marlon Estiven Pinillo Carabali
 ## Teconologo En Analisis Y Desarrollo De Software
-Desprendo una inmensa capacidad y disposición para el aprendizaje y mejoramiento 
-continuo. Manifiesto una buena actitud, comunicación, cooperación y resolución de 
-conflictos para el trabajo en equipo y en cualquier otro ámbito. 
+
 Permanezco inmerso en el análisis y desarrollo de software, tanto en proyectos 
 profesionales como en iniciativas personales. En términos generales me centro en la 
 implementación efectiva de la solución de software, aprovechando el conocimiento y 
-experiencia sobre la tecnología especificada a continuación: 
+experiencia sobre la tecnología especificada a continuación:
+
 HABILIDADES: 
 PHP, Laravel, Flight micro-framework, Composer, SQL, MySQL, MongoDB, API, 
 principios SOLID, POO - programación orientada a objectos, patrones de diseño de 
