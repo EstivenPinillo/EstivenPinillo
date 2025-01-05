@@ -5,7 +5,7 @@ profesionales como en iniciativas personales. En términos generales me centro e
 implementación efectiva de la solución de software, aprovechando el conocimiento y 
 experiencia sobre la tecnología especificada a continuación:
 
-#### Tecnologias y habilidades: 
+### Tecnologias y habilidades: 
 
 PHP, Laravel, Flight micro-framework, Composer, SQL, MySQL, MongoDB, API, 
 principios SOLID, POO - programación orientada a objectos, patrones de diseño de 
@@ -13,8 +13,6 @@ software, arquitectura de software, Nginx, Git, GitHub, GitFlow, JavaScript, JQu
 HTML5, CSS3, SASS, metodología BEM, responsive design, pruebas de software, Scrum, 
 modelamiento de software UML, Linux, análisis y documentación de requerimiento. 
 C++, Google Cloud. 
-
-##### CAPACIDAD: 
 
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
