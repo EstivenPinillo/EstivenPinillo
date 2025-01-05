@@ -1,4 +1,4 @@
-# TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE
+## TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE
 
 Permanezco inmerso en el análisis y desarrollo de software, tanto en proyectos 
 profesionales como en iniciativas personales. En términos generales me centro en la 
