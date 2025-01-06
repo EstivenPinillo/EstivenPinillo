@@ -13,7 +13,7 @@ software, arquitectura de software, Nginx, Git, GitHub, GitFlow, JavaScript, JQu
 HTML5, CSS3, SASS, metodología BEM, responsive design, pruebas de software, Scrum, 
 modelamiento de software UML, Linux, análisis y documentación de requerimiento. 
 C++, Google Cloud. 
-
+#
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
 y creación de base de datos. Control de versiones y trabajo colaborativo. Despliegue 
