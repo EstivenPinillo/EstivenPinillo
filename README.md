@@ -1,5 +1,5 @@
 ## Tecnólogo En Análisis Y Desarrollo De Software
-### Perfil
+
 Permanezco inmerso en el análisis y desarrollo de software, tanto en proyectos 
 profesionales como en iniciativas personales. En términos generales me centro en la 
 implementación efectiva de la solución de software, aprovechando el conocimiento y 
