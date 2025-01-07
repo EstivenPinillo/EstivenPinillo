@@ -17,7 +17,7 @@ C++, Google Cloud.
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
 y creación de base de datos. Control de versiones y trabajo colaborativo. Despliegue 
-en servidor. Creación de reportes y representación de datos en graficas. Y mucho mas 
+en servidor. Creación de reportes y representación de datos en graficas.
 
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
