@@ -5,7 +5,7 @@ Permanezco inmerso en el análisis y desarrollo de software, tanto en proyectos
 profesionales como en iniciativas personales. En términos generales me centro en la 
 implementación efectiva de la solución de software, aprovechando el conocimiento y 
 experiencia sobre la tecnología especificada a continuación:
-#
+
 ### Tecnologias y habilidades: 
 
 PHP, Laravel, Flight micro-framework, Composer, SQL, MySQL, MongoDB, API, 
