@@ -14,7 +14,8 @@ HTML5, CSS3, SASS, metodología BEM, responsive design, pruebas de software, Scr
 modelamiento de software UML, Linux, análisis y documentación de requerimiento.Google Cloud. 
 
 **Otros lenguajes de programacion:**
-C++ y Python.
+
+C++
 
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
