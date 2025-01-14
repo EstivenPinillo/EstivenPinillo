@@ -13,15 +13,14 @@ software, arquitectura de software, Nginx, Git, GitHub, GitFlow, JavaScript, JQu
 HTML5, CSS3, SASS, metodología BEM, responsive design, pruebas de software, Scrum, 
 modelamiento de software UML, Linux, análisis y documentación de requerimiento.Google Cloud. 
 
-**Otros lenguajes de programacion:**
-
-C++
-
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
 y creación de base de datos. Control de versiones y trabajo colaborativo. Despliegue 
 en servidor. Creación de reportes y representación de datos en graficas.
 
+**Otros lenguajes de programacion:**
+
+C++
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
