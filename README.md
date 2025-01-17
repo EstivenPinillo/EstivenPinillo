@@ -11,7 +11,7 @@ PHP, Laravel, Flight micro-framework, Composer, SQL, MySQL, MongoDB, API,
 principios SOLID, POO - programación orientada a objectos, patrones de diseño de 
 software, arquitectura de software, Nginx, Git, GitHub, GitFlow, JavaScript, JQuery, D3.js, 
 HTML5, CSS3, SASS, metodología BEM, responsive design, pruebas de software, Scrum, 
-modelamiento de software UML, Linux, análisis y documentación de requerimiento.Google Cloud. 
+modelamiento de software UML, Linux, análisis y documentación de requerimiento.Google Cloud.
 
 Gestión de requerimientos, análisis y documentación. Maquetación y estilado de 
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado 
