@@ -1,4 +1,4 @@
-## Tecnólogo Profesional En Análisis Y Desarrollo De Software
+## TECNÓLOGO PROFESIONAL EN ANÁLISIS Y DESARROLLO DE SOFTWARE
 
 HABILIDADES: 
  
