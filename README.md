@@ -13,7 +13,7 @@ Obtención, análisis y documentación de requerimientos. Maquetación y estilad
 aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado
 y creación de base de datos. Control de versiones y trabajo colaborativo. Despliegue
 en servidor. Creación de reportes y representación de datos en gráficos.
-
+#
 ### Portafolio profesional: [estivenpinillo.com](https://estivenpinillo.com/)
 
 <!---
