@@ -9,11 +9,6 @@ arquitectura de software (MVC), Nginx, Git, GitHub, GitFlow, JQuery, D3.js, HTML
 CSS3, SASS, metodología BEM, responsive design, mobile first design, pruebas de
 software, Scrum, diagramas UML, Linux. C++, Google Cloud.
 #
-Obtención, análisis y documentación de requerimientos. Maquetación y estilado de
-aplicaciones web con diseño adaptable. Desarrollo de la lógica del Backend. Modelado
-y creación de base de datos. Control de versiones y trabajo colaborativo. Despliegue
-en servidor. Creación de reportes y representación de datos en gráficos.
-#
 ### Portafolio profesional: [estivenpinillo.com](https://estivenpinillo.com/)
 
 <!---
