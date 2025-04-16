@@ -1,7 +1,3 @@
-### TECNÓLOGO EN ANÁLISIS Y DESARROLLO DE SOFTWARE
-
-#
-### Portafolio profesional: [estivenpinillo.com](https://estivenpinillo.com/)
 
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
