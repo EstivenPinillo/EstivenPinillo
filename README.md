@@ -1,13 +1,21 @@
 ### TECNÓLOGO EN ANÁLISIS Y DESARROLLO DE SOFTWARE
 
-HABILIDADES: 
- 
-PHP, Laravel, Angular, JavaScript, TypeScript, Composer, Flight, MySQL, MongoDB,
-SQLite, SQL, API (RESTful, SOAP y WebSockets), principios SOLID, estructuras de datos,
-algoritmos, POO - programación orientada a objectos, patrones de diseño de software,
-arquitectura de software (MVC), Nginx, Git, GitHub, GitFlow, JQuery, D3.js, HTML5,
-CSS3, SASS, metodología BEM, responsive design, mobile first design, pruebas de
-software, Scrum, diagramas UML, Linux. C++, Google Cloud.
+Lenguajes de programación: PHP, TypeScript, JavaScript, C++.
+
+Frameworks y librerías: Laravel, Angular, Flight-PHP, JQuery, Composer, D3.js
+
+Bases de datos: MySQL, MongoDB, SQLite, SQL.
+
+Principios y paradigmas: Programación orientada a objetos (POO), principios SOLID, patrones de diseño, estructuras de datos, algoritmos, arquitectura software.
+
+DevOps y herramientas: Git, GitHub, GitFlow, Nginx, Google Cloud, Linux.
+
+Testing y metodologías: Pruebas de software, PHPUnit, Scrum.
+
+Diseño y maquetación: HTML5, CSS3, SASS, BEM OOCSS, diseño web adaptable (responsive design), diseño móvil primero (mobile-first), diagramas UML.
+
+APIs y servicios: RESTful APIs, SOAP, WebSockets.
+
 #
 ### Portafolio profesional: [estivenpinillo.com](https://estivenpinillo.com/)
 
