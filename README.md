@@ -1,4 +1,4 @@
-#### Analisis Y Desarrollo De Software
+#### Tecnologo En Analisis Y Desarrollo De Software
 
 Lenguajes de programación: PHP, TypeScript, JavaScript, C++.\
 Frameworks y librerías: Laravel, Angular, Flight-PHP, JQuery, Composer, D3.js\
