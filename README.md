@@ -10,9 +10,6 @@ Testing y metodologías: Pruebas de software \(Caja negra), PHPUnit, Scrum.\
 Diseño y maquetación: HTML5, CSS3, SASS, BEM OOCSS, diseño web adaptable (responsive design), diseño móvil primero (mobile-first), diagramas UML.\
 APIs y servicios: RESTful APIs, SOAP, WebSockets.
 
-Me caracterizo por una alta disposición para el aprendizaje continuo y la mejora constante
-de mis habilidades.
-
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
