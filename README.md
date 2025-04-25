@@ -1,4 +1,4 @@
-#### TECNÓLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE...
+#### TECNÓLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE
 
 Lenguajes de programación: PHP, TypeScript, JavaScript, C++.\
 Frameworks y librerías: Laravel, Angular, Flight-PHP, JQuery, Composer, D3.js\
