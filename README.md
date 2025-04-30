@@ -8,7 +8,7 @@ patrones de diseño, estructuras de datos, algoritmos, arquitectura software.\
 DevOps y herramientas: Git, GitHub, GitFlow, Nginx, Google Cloud, Linux.\
 Testing y metodologías: Pruebas de software \(Caja negra), PHPUnit, Scrum.\
 Diseño y maquetación: HTML5, CSS3, SASS, BEM OOCSS, diseño web adaptable (responsive design), diseño móvil primero (mobile-first), diagramas UML.\
-APIs y servicios: RESTful APIs, SOAP, WebSockets.
+APIs y servicios: RESTful APIs.
 
 <!---
 BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
