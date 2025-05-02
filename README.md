@@ -11,7 +11,9 @@ Diseño y maquetación: HTML5, CSS3, SASS, BEM OOCSS, diseño web adaptable (res
 APIs y servicios: RESTful APIs.
 
 <!---
-BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BaumaWar/BaumaWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -f3ae4
 You can click the Preview link to take a look at your changes. 
-Angular.js  Typescript
+Angular.js  Typescript 62fef-
+
 --->
+ 
